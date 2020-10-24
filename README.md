@@ -1,3 +1,8 @@
+Mirror created by Anakreon
+More links:
+https://gitea.eponym.info/Mirrors/youtube-dl
+https://gitee.com/mirrors/youtube-downloader/
+
 [![Build Status](https://travis-ci.org/ytdl-org/youtube-dl.svg?branch=master)](https://travis-ci.org/ytdl-org/youtube-dl)
 
 youtube-dl - download videos from youtube.com or other video platforms
