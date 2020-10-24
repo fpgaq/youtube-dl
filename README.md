@@ -1,7 +1,11 @@
 Mirror created by Anakreon
+
 More links:
-https://gitea.eponym.info/Mirrors/youtube-dl
-https://gitee.com/mirrors/youtube-downloader/
+
+    https://gitea.eponym.info/Mirrors/youtube-dl
+    https://gitee.com/mirrors/youtube-downloader/
+    https://mega.nz/file/cfo0kARR#DxjuVH3QCuSjP_8PzgqaEdDh955B_b0JHSpgDCH5R_M
+    https://bitbucket.org/aab54/ytdl
 
 [![Build Status](https://travis-ci.org/ytdl-org/youtube-dl.svg?branch=master)](https://travis-ci.org/ytdl-org/youtube-dl)
 
