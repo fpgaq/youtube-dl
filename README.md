@@ -7,6 +7,8 @@ More links:
     https://mega.nz/file/cfo0kARR#DxjuVH3QCuSjP_8PzgqaEdDh955B_b0JHSpgDCH5R_M
     https://bitbucket.org/aab54/ytdl
 
+Please add me to friends in Steam https://steamcommunity.com/id/anakreon2100/
+
 [![Build Status](https://travis-ci.org/ytdl-org/youtube-dl.svg?branch=master)](https://travis-ci.org/ytdl-org/youtube-dl)
 
 youtube-dl - download videos from youtube.com or other video platforms
